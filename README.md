@@ -1,6 +1,9 @@
 # Cisco-Firepower-ThreadDefense-ACP-CSV-Export
 This project is about exporting the Access Control Policies from a Cisco Firepower Management Center as a CSV file.
 
+<br> Please note the copyrights and licenses of the individual products and projects used. Accordingly, the rights are held by the original developers. If you have any questions or problems, please contact me, maybe we can find a solution together :)
+
+
 <br>
 <br> As the regular documentation of the switched firewall rules in a Cisco Firepower Management Center takes a lot of time, this process, which takes place regularly at various customers, is to be automated. For example, a process in which an inventory list of the rules can be compared with the currently activated rules can take several hours.
 <br>
